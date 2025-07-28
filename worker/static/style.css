@@ -1,0 +1,10 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+#chatWindow {
+    border-top: 2px solid #4A90E2;
+}
+button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.6);
+}
