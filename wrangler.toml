@@ -1,0 +1,6 @@
+name = "chatcanvas-app"
+main = "worker/index.ts"
+compatibility_date = "2025-07-28"
+
+[site]
+bucket = "./worker/static"
